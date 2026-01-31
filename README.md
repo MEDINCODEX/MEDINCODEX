@@ -83,7 +83,21 @@ Domain | My Expertise
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect with Me <p align="center">
+  <a href="https://www.linkedin.com/in/med-incodex-3bb8082a2/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=web" alt="Portfolio" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</p>
+
+
+
+
  <p align="center">
    
   <a href="https://www.linkedin.com/in/med-incodex-3bb8082a2/">
