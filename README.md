@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=000000&center=true&vCenter=true&width=2000&height=200&lines=Hello+Everyone%F0%9F%91%8B%F0%9F%8F%BC;I+am+Mohamed+Marra%F0%9F%92%BB)](https://git.io/typing-svg)
 
-![Coder GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![Coder GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;BI+Developer;Web+Developer;Always+Learning+New+Things&center=true&width=600&height=50" />
