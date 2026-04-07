@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;BI+Developer;Web+Developer;Always+Learning+New+Things&center=true&width=600&height=50" />
 </p>
 
-
 <p align="center">
     <img src="https://github.com/MEDINCODEX/MEDINCODEX/main/banner.png"/>  
 </p>
