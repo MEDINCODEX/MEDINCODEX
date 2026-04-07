@@ -99,7 +99,10 @@ Domain | My Expertise
   </a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-marra-3bb8082a2/" target="_blank">
+  <a href="www.linkedin.com/in/
+marra-mohamed
+Vanity URL name
+" target="_blank">
     <img src="https://c.tenor.com/your-gif-link.gif" alt="LinkedIn" width="60" height="60"/>
   </a>
 </p>
