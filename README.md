@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/MEDINCODEX/MEDINCODEX/blob/main/banner.png"/>  
+    <img src="https://github.com/MEDINCODEX/MEDINCODEX/main/banner.png"/>  
 </p>
 
 ---
