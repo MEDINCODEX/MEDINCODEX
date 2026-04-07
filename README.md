@@ -87,7 +87,7 @@ Domain | My Expertise
 
  <p align="center">
    
-  <a href="https://www.linkedin.com/in/med-incodex-3bb8082a2/">
+  <a href= "https://www.linkedin.com/in/marra-mohamed/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
