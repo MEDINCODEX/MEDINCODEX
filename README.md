@@ -2,9 +2,13 @@
 
 ![Coder GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)  
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;BI+Developer;Web+Developer;Always+Learning+New+Things&center=true&width=600&height=50" />
 </p>
+
+
 
 <p align="center">
     <img src="https://github.com/MEDINCODEX/MEDINCODEX/main/banner.png"/>  
