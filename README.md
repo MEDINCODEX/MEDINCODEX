@@ -59,20 +59,25 @@ Domain | My Expertise
 - 🔹 **Web Portfolio Website**
 - 🔹 **Data Analysis with Python**
 - 🔹 **BI Dashboard – Power BI**
-
 ---
 
 ## 📈 GitHub Stats
 <!-- ================= DYNAMIC SECTION ================= -->
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MEDINCODEX&show_icons=true&locale=en&layout=compact" alt="MEDINCODEX" /></p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MEDINCODEX&theme=github-light" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/MEDINCODEX?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/MEDINCODEX?label=Stars&style=for-the-badge" />
 </p>
+
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MEDINCODEX&" alt="gg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MEDINCODEX&show_icons=true&locale=en" alt="MEDINCODEX" /></p>
 
 <!-- =================================================== -->
 
